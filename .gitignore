@@ -11,5 +11,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+**/person/ *.jfif
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans
